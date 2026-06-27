@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
+         {
+            "user": "ball",
+            "link": "https://www.youtube.com/watch?v=v_J_lymH4KI",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
