@@ -109,19 +109,19 @@ export default {
                         No inappropriate levels, as this includes NSFW levels/videos.
                     </p>
                     <p>
-                        Your level must have some deco/effort put into it as of 23/03/2026 Australian.
+                       Levels verified/beat with a cps cap will be placed separately.
                     </p>
                     <p>
-                        Spam challenges are allowed, however anything outside of alternating is not allowed.
+                        Levels verified/beat with a method outside alternating will be placed separately.
                     </p>
                     <p>
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
                     <p>
-                        If you beat one part of a level, you can cut the rest of that level off and leave it as a challenge that is verified, same goes with beating that part of the level, like a challenge swap.
+                        Levels have to be 30fps 15cps.
                     </p>
                     <p>
-                        The level has to be in under 16 CPS. Anything above that will not be allowed,
+                        The difficulty must be spam.
                     </p>
                     <p>
                         Noclip is allowed as long as you have 0 deaths or 100% Accuracy.
