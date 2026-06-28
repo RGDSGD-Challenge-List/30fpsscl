@@ -1,19 +1,13 @@
 {
-    "id": 116528378,
-    "name": "Dark Matter",
-    "author": "maxdaxperson",
+    "id": 70823231,
+    "name": "Pixel Wont Clear",
+    "author": "",
     "creators": [1],
-    "verifier": "Feisty",
-    "verification": "https://www.youtube.com/watch?v=r4xXWy0cYE8",
+    "verifier": "freyaii",
+    "verification": "https://discord.com/channels/1520281098490482771/1520789210808717452/1520789210808717452",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "0",
+    "enjoyment": "Alternating",
     "records": [
-         {
-            "user": "tFluffy",
-            "link": "https://www.youtube.com/watch?v=hPJYqjnfdlM",
-            "percent": 100,
-            "hz": 0
-           }
     ]
 }
