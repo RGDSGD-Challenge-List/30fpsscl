@@ -9,9 +9,15 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
-          {
+        {
             "user": "RIFE",
             "link": "https://youtu.be/Olr_wyFCkxk?si=Ro2x51zIQ6FU-Zhf",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "pilka2",
+            "link": "https://youtu.be/qepW6MUJ0Hg?si=Y-p1nI57jNKGJa0E",
             "percent": 100,
             "hz": 0
           }
