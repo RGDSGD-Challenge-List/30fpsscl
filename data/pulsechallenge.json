@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
+         {
+    "user": "jostgmd",
+    "link": "https://www.youtube.com/watch?v=aBe9IbWGtxE",
+    "percent": 100,
+    "hz": 0
+    }
     ]
 }
