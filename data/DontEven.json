@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
+           {
+            "user": "Wblessed",
+            "link": "https://discordapp.com/channels/1520281098490482771/1522060580125413516/1522060580125413516",
+            "percent": 100,
+            "hz": 0
+          }
     ]
 }
