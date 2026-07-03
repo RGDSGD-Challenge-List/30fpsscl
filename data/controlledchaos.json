@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "Alternating",
-    "records": [
+    "records": [ 
+         {
+            "user": "random",
+            "link": "https://youtu.be/hOjwvaxswdM?si=4dmVw6PrImfXC2XL",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
