@@ -68,6 +68,12 @@
             "link": "https://youtube.com/shorts/2eQ1fQrvIdQ?si=UIgmSpQd_4yRy7b7",
             "percent": 100,
             "hz": 0
+          }, 
+         {
+            "user": "random",
+            "link": "https://youtu.be/hOjwvaxswdM?si=4dmVw6PrImfXC2XL",
+            "percent": 100,
+            "hz": 0
          }
     ]
 }
