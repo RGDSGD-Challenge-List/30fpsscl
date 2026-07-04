@@ -127,7 +127,7 @@ export default {
                         Noclip is allowed as long as you have 0 deaths or 100% Accuracy.
                     </p>
                     <p>
-                        Clicks must be heard. Click Sounds aren't allowed.
+                        Clicks must be heard. Click Sounds aren't allowed, or medal overlay is allowed as well if u dont have a mic.
                     </p>
                      <p>
                         You have to be on the latest version of Geometry Dash in order to get your completions/verifications accepted.
