@@ -19,7 +19,13 @@
          },
         {
             "user": "random",
-            "link": "https://youtu.be/nMRNALWJaIQ?si=fxHzwWsiG5Twiy9L",
+            "link": "https://youtu.be/nMRNALWJaIQ",
+            "percent": 100,
+            "hz": 0
+         },
+        {
+            "user": "derpy",
+            "link": "https://medal.tv/games/geometry-dash/clips/n2LtquvckdWikwXHQ",
             "percent": 100,
             "hz": 0
          }
