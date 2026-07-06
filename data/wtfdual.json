@@ -9,9 +9,7 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
-
-
-        {
+{
             "user": "derpy",
             "link": "https://medal.tv/games/geometry-dash/clips/n2Hlojb8gWbjrdGrP?invite=cr-MSx4dnMsNjc1MzE2ODA5",
             "percent": 100,
@@ -20,6 +18,12 @@
         {
             "user": "random",
             "link": "https://www.youtube.com/watch?v=nMRNALWJaIQ",
+            "percent": 100,
+            "hz": 0
+            },
+        {
+            "user": "Levi",
+            "link": "https://discordapp.com/channels/1520281098490482771/1523542709959262250/1523542709959262250",
             "percent": 100,
             "hz": 0
          }
