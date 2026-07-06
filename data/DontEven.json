@@ -33,11 +33,17 @@
             "percent": 100,
             "hz": 0
          },
-                {
+        {
             "user": "derpy",
             "link": "https://medal.tv/games/geometry-dash/clips/n2HntKgsQsly4_J0C?invite=cr-MSx2NGIsNjc1MzE2ODA5",
             "percent": 100,
             "hz": 0
-         }
+        },
+        {
+            "user": "pilka2",
+            "link": "https://www.youtube.com/watch?v=6LSgf2HKyFM",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
