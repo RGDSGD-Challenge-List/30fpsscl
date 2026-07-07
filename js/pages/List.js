@@ -93,11 +93,11 @@ export default {
                             <ul style="list-style-type: disc; padding-left: 2rem">
 								<template v-for="change in changelog">
 									<h2 v-if="change.date" style="margin: 1rem; margin-left: -1rem; color: var(--accent);">{{ change.date }}</h2>
-                                    <li v-if="change.action == 'a'" class="cl" style="margin: 0;"><clw>{{ change.levelname }}</clw> has been placed at <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 's'" class="cl" style="margin: 0;"><clw>{{ change.levelname }}</clw> and <clw>{{ change.swapped }}</clw> have been swapped, with <clw>{{ change.levelname }}</clw> now sitting above at <clw>#{{ change.position }}</clw></li>
-									<li v-if="change.action == 'm'" class="cl" style="margin: 0;"><clw>{{ change.levelname }}</clw> has been raised from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 'l'" class="cl" style="margin: 0;"><clw>{{ change.levelname }}</clw> has been lowered from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 'd'" class="cl" style="margin: 0;"><clw>{{ change.levelname }}</clw> has been removed</li>
+                                    <li v-if="change.action == 'a'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been placed at <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
+									<li v-if="change.action == 's'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> and <clw>{{ change.swapped }}</clw> have been swapped, with <clw>{{ change.levelname }}</clw> now sitting above at <clw>#{{ change.position }}</clw></li>
+									<li v-if="change.action == 'm'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been raised from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
+									<li v-if="change.action == 'l'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been lowered from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
+									<li v-if="change.action == 'd'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been removed</li>
 								</template>
                             </ul>
 						</div>
