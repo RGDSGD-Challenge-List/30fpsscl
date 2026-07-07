@@ -162,6 +162,9 @@ export default {
                     <p>
                         You have to be on the latest version of Geometry Dash in order to get your completions/verifications accepted.
                     </p>
+                      <p>
+                        When submitting if you submit more than one level at a time it is prefered that you upload in a compilation
+                    </p>
                 </div>
             </div>
         </main>
