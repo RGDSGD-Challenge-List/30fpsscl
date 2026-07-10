@@ -9,8 +9,12 @@
     "password": "Free To Copy",
     "enjoyment": "Alternating",
     "records": [
-    ]
-}           "user": "freyaii",
+         {  
+             "user": "freyaii",
             "link": "https://medal.tv/games/geometry-dash/clips/n4KI36Yvh5tmKG1kC?invite=cr-MSxiZjEsNTg3NDU4MDcx",
             "percent": 100,
             "hz": 0
+        }
+    ]
+}
+             
