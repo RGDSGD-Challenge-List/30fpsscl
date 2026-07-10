@@ -50,6 +50,12 @@
             "link": "https://www.youtube.com/watch?v=51v2HpQgQ94",
             "percent": 100,
             "hz": 0
-         }
+            	},
+        {
+            "user": "SodaVortex",
+            "link": "https://www.youtube.com/watch?v=DCNuvs5LwQg",
+            "percent": 100,
+            "hz": 0
+        }
     ]
-}
+}        
