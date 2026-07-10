@@ -15,5 +15,13 @@
 		"above": "coastline chamber",
 		"below": "Sonder",
         "date": "July 8th"
+    },
+    {
+        "action": "a",
+        "levelname": "TriCk no extend",
+        "position": "43",
+		"above": "Spam me maybe",
+		"below": "CHAOS",
+        "date": "July 10th"
     }
 ]
