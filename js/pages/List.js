@@ -1,4 +1,4 @@
-Pimport { store } from "../main.js";
+import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
 import { fetchChangelog, fetchEditors, fetchList } from "../content.js";
