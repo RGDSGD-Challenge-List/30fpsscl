@@ -5,24 +5,44 @@
         "link": "https://www.youtube.com/@Puremidnight"
     },
     {
-        "role": "owner",
-        "name": "Puremidnight",
+        "role": "admin",
+        "name": "Shafikdabest",
         "link": "https://www.youtube.com/@Shafikdabestv1"
     },
     {
-        "role": "trial",
-        "name": "Puremidnight",
-        "link": "https://www.youtube.com/@pixelfactorial"
+        "role": "admin",
+        "name": "Daniel",
+        "link": "https://www.youtube.com/@georgedanielstaicu857"
         },
     {
-        "role": "trial",
-        "name": "Puremidnight",
+        "role": "admin",
+        "name": "Sodavortex",
+        "link": "https://www.youtube.com/@sodavortex276"
+           },
+    {
+        "role": "admin",
+        "name": "Sodavortex",
+        "link": "https://www.youtube.com/@RankedFast"
+            },
+    {
+        "role": "admin",
+        "name": "Jaygol",
+        "link": "https://www.youtube.com/@jaygol1229"
+         },
+    {
+        "role": "admin",
+        "name": "Antawng2",
+        "link": "https://www.youtube.com/@Extremedemon105"
+         },
+    {
+        "role": "admin",
+        "name": "Angopr",
         "link": "https://www.youtube.com/@angoPR1"
     },
     {
         "role": "dev",
-        "name": "None",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ball",
+        "link": "https://www.youtube.com/@ballgoballing"
     }
 ]
 
