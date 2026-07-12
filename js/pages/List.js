@@ -148,7 +148,7 @@ export default {
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
                     <p>
-
+Levels have to be 30 fps
                     </p>
                     <p>
                         The difficulty must be spam.
