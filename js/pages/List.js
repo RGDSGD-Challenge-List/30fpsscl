@@ -1,4 +1,4 @@
-import { store } from "../main.js";
+Pimport { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
 import { fetchChangelog, fetchEditors, fetchList } from "../content.js";
@@ -148,7 +148,7 @@ export default {
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
                     <p>
-                        Levels have to be 30fps 15cps.
+
                     </p>
                     <p>
                         The difficulty must be spam.
