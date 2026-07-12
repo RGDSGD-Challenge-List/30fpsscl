@@ -1,22 +1,5 @@
 [
     {
-        "action": "l",
-        "levelname": "NOMAD",
-        "oldposition": "1",
-        "position": "3",
-		"above": "Trick Extension",
-		"below": "10s30",
-        "date": "July 7th 2026"
-          },
-    {
-        "action": "a",
-        "levelname": "Oh Baby",
-        "position": "43",
-		"above": "coastline chamber",
-		"below": "Sonder",
-        "date": "July 8th"
-    },
-    {
         "action": "a",
         "levelname": "TriCk no extend",
         "position": "13",
@@ -41,6 +24,7 @@
         "date": "July 12th"
     }
 ]
+    
 
 
 
