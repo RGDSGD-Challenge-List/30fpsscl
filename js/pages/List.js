@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Method</div>
+                            <div class="type-title-sm">Length</div>
                             <p>{{ level.enjoyment || 'None (0)' }}</p>
                         </li>
                     </ul>
