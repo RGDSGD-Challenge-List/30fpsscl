@@ -1,5 +1,13 @@
 [
     {
+         "action": "a",
+        "levelname": "Ultra beats x2",
+        "position": "70",
+		"above": "WINGS",
+		"below": "A classic spam chall",
+        "date": "July 13th"
+    },
+    {
            "action": "a",
         "levelname": "Lucagmd Challenge",
         "position": "60",
