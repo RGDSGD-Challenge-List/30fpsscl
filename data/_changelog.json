@@ -1,5 +1,13 @@
 [
     {
+           "action": "a",
+        "levelname": "Lucagmd Challenge",
+        "position": "60",
+		"above": "Trap",
+		"below": "AFK",
+        "date": "July 13th"
+    },
+    {
           "action": "a",
         "levelname": "A classic spam chall",
         "position": "68",
