@@ -148,7 +148,7 @@ export default {
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
                     <p>
-                        Levels have to be 30fps 15cps.
+                        Levels have to be 30fps Minimum cps is 10.
                     </p>
                     <p>
                         The difficulty must be spam.
