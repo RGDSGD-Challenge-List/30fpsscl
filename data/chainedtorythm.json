@@ -1,13 +1,22 @@
 {
     "id": 117487307,
-    "name": "Chained to Rythm",
+    "name": "Chained to Rhythm",
     "author": "itzgloosy",
     "creators": [1],
-    "verifier": "Sandwhich",
+    "verifier": "Sandwich",
     "verification": "https://medal.tv/games/geometry-dash/clip/mUNekAG4UuJw6b0Nb?invite=cr-MSxlcWcsNDcyMzE5NTg3",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "10.037s",
-    "records": [
+    "records": 	},
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/2vqCHyUhKdo",
+            "percent": 100,
+            "hz": 0
+            
+
+        }
     ]
 }
+  
