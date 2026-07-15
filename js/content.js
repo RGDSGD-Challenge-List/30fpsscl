@@ -161,7 +161,7 @@ export async function fetchChangelog() {
 }
 
 export async function fetchdailylul() {
-    const listResult = await fetch(`${dir}/le daily.json`);
+    const listResult = await fetch(`${dir}/_le daily.json`);
     try {
         const list = await listResult.json();
         return await Promise.all(
@@ -180,13 +180,13 @@ export async function fetchdailylul() {
                         null,
                     ];
                 } catch {
-                    console.error(`Failed to load level #${rank + 1} ${path}.`);
+                    console.error(`Failed to load le daily #${rank + 1} ${path}.`);
                     return [null, path];
                 }
             }),
         );
     } catch {
-        console.error(`Failed to load list.`);
+        console.error(`Failed to load le daily.`);
         return null;
     }
 }
