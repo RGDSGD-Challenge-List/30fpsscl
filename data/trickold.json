@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "3.645",
     "records": [
+            {
+            "user": "pilka2",
+            "link": "https://youtu.be/hPVKeXCVNrM?si=Y_11kW83aAwdxNJ_",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
