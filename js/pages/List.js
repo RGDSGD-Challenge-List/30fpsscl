@@ -85,7 +85,7 @@ export default {
                     <p>Click the levels on the left side to see information about them!</p>
                     <p>For more information about the submission rules check the right side!</p>
                     <h2>le daily</h2>
-                    <p>{{ leDaily[0].name }}</p>
+                    <p>{{ leDaily[0][0].name }} ({{ leDaily[0][0].id }})</p>
                     <button class="btn" @click="selected = Math.ceil(Math.random() * list.length)">
                         <span class="type-label-lg">I'm feeling lucky</span>
                     </button>
@@ -221,6 +221,7 @@ export default {
         this.editors = await fetchEditors();
         this.changelog = await fetchChangelog();
         this.leDaily = await fetchdailylul();
+        console.log(this.leDaily);
 
         // Error handling
         if (!this.list) {
