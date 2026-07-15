@@ -3,11 +3,17 @@
     "name": "YOUR LIFE",
     "author": "Derpy",
     "creators": [1],
-    "verifier": "Derpy",
-    "verification": "https://medal.tv/games/geometry-dash/clip/n2PD4AD9saiELujS6?invite=cr-MSwyMXEsNjc1MzE2ODA5",
+    "verifier": "random",
+    "verification": "https://youtu.be/Dxo4bb4uXBo?si=-vIl0ezT6WL8cmTl",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "7.821s",
     "records": [
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+                 }
     ]
 }

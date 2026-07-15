@@ -1,0 +1,25 @@
+{
+    "id": 144006743,
+    "name": "Da Lang Bonngers",
+    "author": "jostgmd",
+    "creators": [1],
+    "verifier": "jostgmd",
+    "verification": "https://www.youtube.com/watch?v=R4CRpGBdlbA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "3.8s",
+    "records": [
+            {
+            "user": "pilka2",
+            "link": "https://youtu.be/hPVKeXCVNrM?si=Y_11kW83aAwdxNJ_",
+            "percent": 100,
+            "hz": 0
+                  },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

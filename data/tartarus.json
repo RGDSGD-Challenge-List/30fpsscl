@@ -7,7 +7,20 @@
     "verification": "https://youtu.be/hw0CXwwp_bg?si=QadszXAScDSDuGAg",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "5.257s",
     "records": [
+        {
+            "user": "pilka2",
+            "link": "https://youtu.be/KVf4Lznp_wg?si=DeCrp-QmjAV-Qcuv",
+            "percent": 100,
+            "hz": 0
+         },
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/7T9YqY2LSXM",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
+

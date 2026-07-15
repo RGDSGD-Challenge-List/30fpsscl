@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=YxmXw39GVv4",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "0.833s",
     "records": [
                 {
             "user": "Antawng2",
@@ -74,6 +74,36 @@
             "link": "https://medal.tv/albums/1xahc2JRsujxA0zOJhx",
             "percent": 100,
             "hz": 0
-         }
+         },
+        {
+            "user": "exitygd",
+            "link": "https://www.youtube.com/watch?v=lB4wCUnnfQ8",
+            "percent": 100,
+            "hz": 0
+                 },
+        {
+            "user": "GDNobrain",
+            "link": "https://www.youtube.com/watch?v=h-iNv1p0LF4",
+            "percent": 100,
+            "hz": 0
+            	},
+        {
+            "user": "houne",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/n4hIH9ocNwpaKoDYm?invite=cr-MSxGVngsNjcwODUyOTgy&v=14",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "Consstel",
+            "link": "https://www.youtube.com/watch?v=ZO39ft1rp3k",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }

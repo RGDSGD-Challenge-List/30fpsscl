@@ -7,7 +7,36 @@
     "verification": "https://youtu.be/dLZX2QMFHuc?si=UyhRXyP_icAroJDk",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "4.231s",
     "records": [
+        {
+            "user": "random",
+            "link": "https://youtu.be/Dxo4bb4uXBo?si=-vIl0ezT6WL8cmTl",
+            "percent": 100,
+            "hz": 0
+         },
+        {
+            "user": "pilka2",
+            "link": "https://youtu.be/uYnHBaAwfy0?si=wDtAiZV_b3UC4BIu",
+            "percent": 100,
+            "hz": 0
+            	},
+        {"user": "SodaVortex",
+            "link": "https://youtu.be/_m9Hocwx6hU",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+            
+
+        }
     ]
 }
+
+
+
+

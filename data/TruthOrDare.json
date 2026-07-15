@@ -1,0 +1,25 @@
+{
+    "id": 144500628,
+    "name": "Truth Or Dare",
+    "author": "SodaVortex",
+    "creators": [1],
+    "verifier": "SodaVortex",
+    "verification": "https://youtu.be/R8-vInzQ9fo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "6.867s",
+    "records": [
+        {   
+          "user": "random",
+          "link": "https://youtu.be/jQQadr8NPSI?si=qhhdMolDjLiC3E08",
+          "percent": 100,
+          "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

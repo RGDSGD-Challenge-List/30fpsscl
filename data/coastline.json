@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/VBtmcE62eXc?si=J4vrT6hbUGlmHsNJ",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "1.911s",
     "records": [
          {
             "user": "random",
@@ -33,12 +33,6 @@
             "percent": 100,
             "hz": 0
          },
-        {
-            "user": "derpy",
-            "link": "https://medal.tv/games/geometry-dash/clips/n2Hxo0dQ42zj7cHjj?invite=cr-MSx2cTUsNjc1MzE2ODA5",
-            "percent": 100,
-            "hz": 0
-         },
          {
             "user": "pilka2",
             "link": "https://www.youtube.com/watch?v=IL5NNCSDD6I",
@@ -50,6 +44,55 @@
             "link": "https://medal.tv/albums/1xahc2JRsujxA0zOJhx",
             "percent": 100,
             "hz": 0
-         }
+         },
+        {
+            "user": "justanunknown",
+            "link": "https://youtu.be/AkIDSPVzVCI?is=vfHEWC1_4Bv6526t",
+            "percent": 100,
+            "hz": 0
+            	},
+        {
+            "user": "SodaVortex",
+            "link": "https://www.youtube.com/watch?v=DCNuvs5LwQg",
+            "percent": 100,
+            "hz": 0
+            	},
+        {
+            "user": "cbs",
+            "link": "https://www.youtube.com/watch?v=px1mR1QG1ME",
+            "percent": 100,
+            "hz": 0
+            	},
+        {
+            "user": "houne",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/n4hHaUyX2Lgd1im1k?invite=cr-MSxHMlQsNjcwODUyOTgy&v=30",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "Consstel",
+            "link": "https://www.youtube.com/watch?v=ZO39ft1rp3k",
+            "percent": 100,
+            "hz": 0
+               },
+        {
+            "user": "Excessity",
+            "link": "https://www.youtube.com/watch?v=QR8bYossRAI",
+            "percent": 100,
+            "hz": 0
+                },
+        {
+            "user": "bubblextra",
+            "link": "https://youtu.be/d61nrCWxUzk",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
+

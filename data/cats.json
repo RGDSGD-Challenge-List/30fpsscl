@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/tOYlUL08WBg?si=esxN0iSmneuzMxKh",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "3.795s",
     "records": [
         {
             "user": "tptbanana",
@@ -32,19 +32,30 @@
             "link": "https://discordapp.com/channels/1520281098490482771/1522157582805106708/1522157582805106708",
             "percent": 100,
             "hz": 0
-    },
-        {
-            "user": "derpy",
-            "link": "https://medal.tv/games/geometry-dash/clips/n2Hr4hMdmr1TAwizL?invite=cr-MSwwYW8sNjc1MzE2ODA5",
-            "percent": 100,
-            "hz": 0
          },
         {
             "user": "pilka2",
             "link": "https://www.youtube.com/watch?v=R51E628RoDw",
             "percent": 100,
             "hz": 0
+        },
+        {
+            "user": "tyvjct",
+            "link": "https://www.youtube.com/watch?v=egpQFw03JAc",
+            "percent": 100,
+            "hz": 0
+            	},
+        {
+            "user": "SodaVortex",
+            "link": "https://www.youtube.com/watch?v=bCFLbxHsm-Q",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
-

@@ -1,0 +1,37 @@
+{
+    "id": 68747655,
+    "name": "Risk Money",
+    "author": "ttsum",
+    "creators": [1],
+    "verifier": "SodaVortex",
+    "verification": "https://youtu.be/dMkGDiVABjc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "3.067s",
+    "records": [
+        {   
+          "user": "random",
+          "link": "https://youtu.be/jQQadr8NPSI?si=qhhdMolDjLiC3E08",
+          "percent": 100,
+          "hz": 0
+            	},
+        {
+            "user": "pilka2",
+            "link": "https://youtu.be/O_KE0dYiHys?si=U3L0chFMJUZX4E-q",
+            "percent": 100,
+            "hz": 0
+                },
+        {
+            "user": "bubblextra",
+            "link": "https://youtu.be/d61nrCWxUzk",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}

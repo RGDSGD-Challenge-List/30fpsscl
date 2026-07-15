@@ -7,7 +7,22 @@
     "verification": "https://youtu.be/hw0CXwwp_bg?si=QadszXAScDSDuGAg",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "7.708s",
     "records": [
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/LJ5r-qdF6ds",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+            
+
+        }
     ]
 }
+

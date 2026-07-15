@@ -7,7 +7,7 @@
     "verification": "https://discord.com/channels/1520281098490482771/1520788182050930949/1520788182050930949",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "5.051s",
     "records": [
          {
             "user": "pilka2",
@@ -20,6 +20,21 @@
             "link": "https://youtu.be/hOjwvaxswdM?si=4dmVw6PrImfXC2XL",
             "percent": 100,
             "hz": 0
-         }
+            	},
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/yOB_i82hv1U",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+            
+
+        }
     ]
 }
+

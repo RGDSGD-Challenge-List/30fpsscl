@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/VBtmcE62eXc?si=J4vrT6hbUGlmHsNJ",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "2.269s",
     "records": [
          {
             "user": "random",
@@ -50,20 +50,39 @@
             "link": "https://youtu.be/yoW9Za2VuqE",
             "percent": 100,
             "hz": 0
-         },
-        {
-            "user": "derpy",
-            "link": "https://medal.tv/games/geometry-dash/clips/n2Hx3z6CwOxnTptkp?invite=cr-MSxTaXAsNjc1MzE2ODA5",
-            "percent": 100,
-            "hz": 0
               },
         {
             "user": "Xed",
             "link": "https://www.youtube.com/shorts/I9CjAMXpJSo",
             "percent": 100,
             "hz": 0
-         }
+            	},
+        {
+            "user": "houne",
+            "link": "https://medal.tv/ru/games/geometry-dash/clips/n4hKXWqzqua08l6nI?invite=cr-MSxoaDIsNjcwODUyOTgy&v=30",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "Consstel",
+            "link": "https://www.youtube.com/watch?v=ZO39ft1rp3k",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "Excessity",
+            "link": "https://www.youtube.com/watch?v=QR8bYossRAI",
+            "percent": 100,
+            "hz": 0
+                },
+        {
+            "user": "bubblextra",
+            "link": "https://youtu.be/d61nrCWxUzk",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
+
 
 

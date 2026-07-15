@@ -4,10 +4,10 @@
     "author": "Tap33",
     "creators": [1],
     "verifier": "AngoPR",
-    "verification": "https://www.youtube.com/watch?v=X5OMRdGxrVg",
+    "verification": "https://www.youtube.com/watch?v=zIE0kkvuGmY",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "3.822s",
     "records": [
          {
             "user": "Wblessed",
@@ -32,19 +32,27 @@
             "link": "https://www.youtube.com/watch?v=1oD4HwxS39M",
             "percent": 100,
             "hz": 0
-         },
-        {
-            "user": "derpy",
-            "link": "https://medal.tv/games/geometry-dash/clips/n2HunNmsCxJ2WqG_5?invite=cr-MSwzaDYsNjc1MzE2ODA5",
-            "percent": 100,
-            "hz": 0
                },
         {
             "user": "tanker674",
             "link": "https://discordapp.com/channels/1520281098490482771/1522902510052835348/1522902510052835348",
             "percent": 100,
             "hz": 0
-         }
+            	},
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/_m9Hocwx6hU",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+            
+        }
     ]
 }
+
 

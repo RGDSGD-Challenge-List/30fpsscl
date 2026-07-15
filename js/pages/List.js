@@ -55,7 +55,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Method</div>
+                            <div class="type-title-sm">Length</div>
                             <p>{{ level.enjoyment || 'None (0)' }}</p>
                         </li>
                     </ul>
@@ -87,24 +87,24 @@ export default {
                     <h2>le daily</h2>
                     <p>{{ leDaily[0].name }}</p>
                     <button class="btn" @click="selected = Math.ceil(Math.random() * list.length)">
-                    	<span class="type-label-lg">I'm feeling lucky</span>
-					</button>
-					<h2>Changelog</h2>
+                        <span class="type-label-lg">I'm feeling lucky</span>
+                    </button>
+                    <h2>Changelog</h2>
                     <main style="display: flex; flex-direction: column; align-items: left; gap: 24px; text-align: left; overflow: hidden; overflow-y: auto; max-height: 300px; width: 700px; border: 3px solid var(--color-primary); border-radius: 5px;">
-            			<div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
+                        <div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
                             <ul style="list-style-type: disc; padding-left: 2rem">
-								<template v-for="change in changelog">
-									<h2 v-if="change.date" style="margin: 1rem; margin-left: -1rem; color: var(--accent);">{{ change.date }}</h2>
+                                <template v-for="change in changelog">
+                                    <h2 v-if="change.date" style="margin: 1rem; margin-left: -1rem; color: var(--accent);">{{ change.date }}</h2>
                                     <li v-if="change.action == 'a'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been placed at <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 's'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> and <clw>{{ change.swapped }}</clw> have been swapped, with <clw>{{ change.levelname }}</clw> now sitting above at <clw>#{{ change.position }}</clw></li>
-									<li v-if="change.action == 'm'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been raised from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 'l'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been lowered from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
-									<li v-if="change.action == 'd'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been removed</li>
-								</template>
+                                    <li v-if="change.action == 's'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> and <clw>{{ change.swapped }}</clw> have been swapped, with <clw>{{ change.levelname }}</clw> now sitting above at <clw>#{{ change.position }}</clw></li>
+                                    <li v-if="change.action == 'm'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been raised from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
+                                    <li v-if="change.action == 'l'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been lowered from <clw>#{{ change.oldposition }}</clw> to <clw>#{{ change.position }}</clw>, above <clw>{{ change.above }}</clw> and below <clw>{{ change.below }}</clw></li>
+                                    <li v-if="change.action == 'd'" class="cl" style="margin: 0; font-family: 'Lexend Deca', sans-serif"><clw>{{ change.levelname }}</clw> has been removed</li>
+                                </template>
                             </ul>
-						</div>
+                        </div>
                         <h3 style="text-align: center;" v-if="!changelog">Nothing here yet...</h3>  
-        			</main>
+                    </main>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>Error! (If this error doesn't go away after some time, please contact staff)</p>
@@ -150,7 +150,7 @@ export default {
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
                     <p>
-                        Levels have to be 30fps 15cps.
+                        Levels have to be 30fps Minimum cps is 10.
                     </p>
                     <p>
                         The difficulty must be spam.
@@ -184,7 +184,7 @@ export default {
     computed: {
         level() {
             if (this.selected == null) {
-            	return 0;
+                return 0;
             } else {
                 return this.list[this.selected][0];
             }
@@ -213,7 +213,7 @@ export default {
             }
             const searchTerm = this.searchQuery.toLowerCase();
             return (this.originalListWithIndex || []).filter(item => item.level?.name?.toLowerCase().includes(searchTerm.toLowerCase()));
-		},
+        },
     },
     async mounted() {
         // Hide loading spinner

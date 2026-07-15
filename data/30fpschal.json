@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/shorts/WARpRiqaquk",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "Alternating",
+    "enjoyment": "1.032s",
     "records": [
            {
             "user": "Excessity",
@@ -92,6 +92,36 @@
             "link": "https://medal.tv/albums/1xahc2JRsujxA0zOJhx",
             "percent": 100,
             "hz": 0
-         }
+             	},
+        {
+            "user": "SodaVortex",
+            "link": "https://www.youtube.com/watch?v=bCFLbxHsm-Q",
+            "percent": 100,
+            "hz": 0
+            },
+        {
+            "user": "GDNobrain",
+            "link": "https://www.youtube.com/watch?v=h-iNv1p0LF4",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "Consstel",
+            "link": "https://www.youtube.com/watch?v=ZO39ft1rp3k",
+            "percent": 100,
+            "hz": 0
+                 },
+        {
+            "user": "bubblextra",
+            "link": "https://youtu.be/d61nrCWxUzk",
+            "percent": 100,
+            "hz": 0
+              },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }

@@ -2,27 +2,47 @@
     {
         "role": "owner",
         "name": "Puremidnight402",
-        "link": "https://www.youtube.com/@Puremidnight"
+        "link": "https://www.youtube.com/@Puremidnight402"
     },
     {
-        "role": "owner",
-        "name": "Puremidnight",
+        "role": "admin",
+        "name": "Shafikdabest",
         "link": "https://www.youtube.com/@Shafikdabestv1"
     },
     {
-        "role": "trial",
-        "name": "Puremidnight",
-        "link": "https://www.youtube.com/@pixelfactorial"
+        "role": "admin",
+        "name": "Daniel",
+        "link": "https://youtube.com/@georgedanielstaicu8575?si=XXK_TGakNb827HmS"
         },
     {
-        "role": "trial",
-        "name": "Puremidnight",
+        "role": "admin",
+        "name": "Sodavortex",
+        "link": "https://www.youtube.com/@sodavortex276"
+           },
+    {
+        "role": "admin",
+        "name": "freyaii",
+        "link": "https://guns.lol/freyaii"
+            },
+    {
+        "role": "admin",
+        "name": "Jaygol",
+        "link": "https://www.youtube.com/@jaygol1229"
+         },
+    {
+        "role": "admin",
+        "name": "exity",
+        "link": "https://www.youtube.com/@Extremedemon105"
+         },
+    {
+        "role": "admin",
+        "name": "Angopr",
         "link": "https://www.youtube.com/@angoPR1"
     },
     {
         "role": "dev",
-        "name": "None",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ball",
+        "link": "https://www.youtube.com/@ballgoballing"
     }
 ]
 

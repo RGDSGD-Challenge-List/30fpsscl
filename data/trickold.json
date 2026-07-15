@@ -1,0 +1,25 @@
+{
+    "id": 77872599,
+    "name": "Trick Old Version",
+    "author": "zFishal",
+    "creators": [1],
+    "verifier": "Excessity",
+    "verification": "https://www.youtube.com/watch?v=OOlAiX8YNxA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "3.645",
+    "records": [
+            {
+            "user": "pilka2",
+            "link": "https://youtu.be/hPVKeXCVNrM?si=Y_11kW83aAwdxNJ_",
+            "percent": 100,
+            "hz": 0
+                  },
+                 {
+            "user": "Sandwich",
+            "link": "https://www.youtube.com/watch?v=9FvKPJq1jp4&t=1s",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
