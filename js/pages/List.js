@@ -1,7 +1,7 @@
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchChangelog, fetchEditors, fetchList } from "../content.js";
+import { fetchChangelog, fetchEditors, fetchList, fetchdailylul } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -84,6 +84,8 @@ export default {
                     <h2>Welcome to the 30 FPS Spam Challenge List!</h2>
                     <p>Click the levels on the left side to see information about them!</p>
                     <p>For more information about the submission rules check the right side!</p>
+                    <h2>le daily</h2>
+                    <p>{{ leDaily[0].name }}</p>
                     <button class="btn" @click="selected = Math.ceil(Math.random() * list.length)">
                     	<span class="type-label-lg">I'm feeling lucky</span>
 					</button>
@@ -218,6 +220,7 @@ export default {
         this.list = await fetchList();
         this.editors = await fetchEditors();
         this.changelog = await fetchChangelog();
+        this.leDaily = await fetchdailylul();
 
         // Error handling
         if (!this.list) {
