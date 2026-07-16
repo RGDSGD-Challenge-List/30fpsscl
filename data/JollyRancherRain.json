@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "1.8s",
-    "records":[ 
+    "records":[
+        {
+            "user": "Sandwich",
+            "link": "https://medal.tv/games/geometry-dash/clips/n7XlhNCy2_-3t0qnm?invite=cr-MSxNa3QsNDcyMzE5NTg3",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
