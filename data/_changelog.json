@@ -1,5 +1,13 @@
 [
     {
+               "action": "a",
+        "levelname": "METALTONIC",
+        "position": "4",
+        "above": "NOMAD",
+        "below": "Chained to rythym",
+        "date": "July 16th"
+    },
+    {
              "action": "a",
         "levelname": "Galakti Sp4m",
         "position": "34",
