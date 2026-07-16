@@ -31,6 +31,11 @@
          },
     {
         "role": "admin",
+        "name": "sandwich",
+        "link": "https://www.youtube.com/@unspecifiedsandwich"
+         },
+    {
+        "role": "admin",
         "name": "exity",
         "link": "https://www.youtube.com/@Extremedemon105"
          },
