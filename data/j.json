@@ -8,6 +8,15 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "0.8975s",
-    "records": [
+    "records": 
+    	},
+        {
+            "user": "SodaVortex",
+            "link": "https://youtu.be/dlnaZU26m4Y",
+            "percent": 100,
+            "hz": 0
+            
+
+        }
     ]
 }
