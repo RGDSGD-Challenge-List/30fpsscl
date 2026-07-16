@@ -1,0 +1,18 @@
+{
+    "id": 136505943,
+    "name": "FOXTAIL",
+    "author": "ywuChaos",
+    "creators": [1],
+    "verifier": "ruby",
+    "verification": "https://youtu.be/d7aymgf0P7A",
+    "percentToQualify": "100",
+    "enjoyment": "4.333s",
+    "records": [
+        {
+            "user": "Sandwich",
+            "link": "https://youtu.be/n1eGlzOf6lw",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
