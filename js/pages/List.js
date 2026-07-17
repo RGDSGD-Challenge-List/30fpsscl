@@ -218,11 +218,7 @@ export default {
         this.editors = await fetchEditors();
         this.changelog = await fetchChangelog();
         this.leDaily = await fetchdailylul();
-        console.log(this.leDaily);
-        if (Math.floor(Math.random() * 100) == 12 || JSON.parse(localStorage.getItem('purple'))) {
-            var r = document.querySelector(':root');
-            var rs = getComputedStyle(r);
-            r.style.setProperty('--color-primary', '#8800ff');
+        if (Math.floor(Math.random() * 100) == 12) {
             localStorage.setItem('purple', "true");
         }
 
