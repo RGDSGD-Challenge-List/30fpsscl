@@ -1,7 +1,7 @@
 :root {
     --color-background: white;
     --color-on-background: black;
-    --color-background-hover: #FFA500;
+    --color-background-hover: #ffa500;
     --color-on-background-hover: black;
     --color-primary: #c46210;
     --color-on-primary: white;
@@ -16,13 +16,16 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #FFA500;
+    --color-primary: #ffa500;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
 }
-
+main.dark,
+header.dark {
+    --color-primary: #8800ff;
+}
 html,
 body {
     height: 100%;
