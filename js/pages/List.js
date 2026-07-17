@@ -26,11 +26,11 @@ export default {
                 <table class="list" v-if="list && list.length">
                     <tr v-for="(item, i) in filteredListDisplay" :key="item.originalIndex">
                         <td class="rank">
-                            <p v-if="i + 1 <= 100" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="item.originalIndex + 1 <= 100" class="type-label-lg">#{{ item.originalIndex + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !item.level }">
-                            <button @click="selected = i">
+                        <td class="level" :class="{ 'active': selected == item.originalIndex, 'error': !item.level }">
+                            <button @click="selected = item.originalIndex">
                                 <span class="type-label-lg">{{ item.level?.name || \`Error (\${err}.json)\` }}</span>
                             </button>
                         </td>
@@ -73,9 +73,6 @@ export default {
                             </td>
                             <td class="mobile">
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
-                            </td>
-                            <td class="hz">
-                                <p>{{ record.hz }}Enj</p>
                             </td>
                         </tr>
                     </table>
