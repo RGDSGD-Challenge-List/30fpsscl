@@ -8,6 +8,7 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "1.866",
+    "transition": true,
     "records":[ 
         {
             "user": "SodaVortex",
