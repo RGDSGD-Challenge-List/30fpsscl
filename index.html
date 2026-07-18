@@ -1,232 +1,84 @@
-color:var(--white);
-      display:flex;
-      align-items:center;
-      padding:12px 20px;
-      gap:16px;
-      box-shadow:0 2px 0 rgba(0,0,0,0.06);
-    }
-    .brand{
-      font-weight:800;
-      letter-spacing:0.6px;
-      font-size:20px;
-      margin-right:12px;
-    }
-    .search{
-      background:rgba(255,255,255,0.12);
-      padding:8px 12px;
-      border-radius:8px;
-      color:#fff;
-      min-width:220px;
-      border:1px solid rgba(0,0,0,0.06);
-    }
-    .search input{
-      width:100%;
-      border:0;
-      background:transparent;
-      color:inherit;
-      outline:0;
-      font-size:14px;
-    }
-    .top-right{
-      margin-left:auto;
-      display:flex;
-      align-items:center;
-      gap:12px;
-    }
-    .icon-btn{
-      background:transparent;
-      border:0;
-      color:var(--white);
-      cursor:pointer;
-      padding:8px;
-      border-radius:8px;
-      font-size:14px;
-    }
-    .submit-btn{
-      background:var(--white);
-      color:var(--brand);
-      border-radius:18px;
-      padding:8px 14px;
-      font-weight:700;
-      border:0;
-      cursor:pointer;
-    }
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=1024" />
+        <title>30fps Spam Challenge List</title>
 
-
-    /* Navigation row with groups */
-    .nav-row{
-      display:flex;
-      align-items:center;
-      gap:var(--nav-gap);
-      padding:12px 24px;
-      background:#fff;
-      border-bottom:1px solid rgba(0,0,0,0.04);
-      position:sticky;
-      top:0;
-      z-index:20;
-    }
-
-
-    .nav-group{
-      display:flex;
-      gap:16px;
-      list-style:none;
-      margin:0;
-      padding:0;
-      align-items:center;
-    }
-    .nav-group a{
-      color:var(--dark);
-      text-decoration:none;
-      font-weight:700;
-      padding:6px 8px;
-      display:inline-block;
-    }
-    .nav-group a:hover{opacity:0.9;}
-
-
-    /* Example layout: left sidebar + main content */
-    .container{
-      display:flex;
-      gap:20px;
-      max-width:1200px;
-      margin:28px auto;
-      padding:0 20px;
-    }
-    .sidebar{
-      width:220px;
-      background:#fff;
-      border-radius:8px;
-      padding:14px;
-      box-shadow:0 6px 18px rgba(0,0,0,0.04);
-      height:calc(100vh - 160px);
-      overflow:auto;
-    }
-    .sidebar h4{margin:0 0 12px 0;font-size:13px;color:var(--muted)}
-    .level-list{list-style:none;padding:0;margin:0;}
-    .level-list li{padding:8px 6px;border-radius:6px;color:#111;font-weight:600}
-    .level-list li:not(:last-child){margin-bottom:6px}
-    .main{
-      flex:1;
-      min-width:0;
-    }
-    .card{
-      background:#fff;
-      padding:20px;
-      border-radius:8px;
-      box-shadow:0 6px 18px rgba(0,0,0,0.04);
-    }
-    .title{
-      font-size:36px;
-      margin:0 0 8px 0;
-      font-weight:800;
-    }
-    .meta{display:flex;gap:18px;align-items:center;color:var(--muted); margin-bottom:16px}
-    .video-placeholder{
-      width:100%;
-      height:320px;
-      background:linear-gradient(90deg,#111 10%, #222 40%, #111 100%);
-      border-radius:6px;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      color:#fff;
-      font-weight:800;
-      font-size:18px;
-    }
-
-
-    /* Small tweaks */
-    @media (max-width:900px){
-      .container{flex-direction:column;padding:0 14px}
-      .sidebar{width:100%;height:auto}
-      .nav-row{overflow:auto;white-space:nowrap}
-      .search{min-width:120px}
-    }
-  </style>
-</head>
-<body>
-
-
-  <!-- Top brand strip -->
-  <div class="topbar">
-    <div class="brand">30fps SCL <span style="opacity:0.9;font-weight:600;font-size:12px;margin-left:8px">v2.1</span></div>
-
-
-    <div class="search" aria-label="search levels">
-      <input type="search" placeholder="Input text to Filter! here..." />
-    </div>
-
-
-    <div style="margin-left:8px;font-weight:700">List</div>
-
-
-    <div class="top-right">
-      <button class="icon-btn" title="Toggle theme">🌙</button>
-      <button class="icon-btn" title="Discord">💬</button>
-      <button class="submit-btn">Submit Level</button>
-    </div>
-  </div>
-
-
-  <!-- Navigation row with two groups (existing + new) -->
-  <div class="nav-row" role="navigation" aria-label="primary navigation">
-    <ul class="nav-group" aria-hidden="false">
-      <li><a href="#leaderboard">Leaderboard</a></li>
-      <li><a href="#list">List</a></li>
-      <li><a href="#roulette">Roulette</a></li>
-      <li><a href="#packs">Packs</a></li>
-    </ul>
-
-
-    <!-- New section: second navigation group -->
-    <ul class="nav-group" style="margin-left:8px">
-      <li><a href="#community">Community</a></li>
-      <li><a href="#events">Events</a></li>
-      <li><a href="#shop">Shop</a></li>
-    </ul>
-
-
-    <!-- Push extra actions to the right -->
-    <div style="margin-left:auto;display:flex;gap:12px;align-items:center">
-      <a href="#rules" style="color:var(--muted);text-decoration:none;font-weight:700">Rules</a>
-      <a href="#packs" style="background:var(--brand);color:#fff;padding:6px 10px;border-radius:6px;text-decoration:none;font-weight:700">Play</a>
-    </div>
-  </div>
-
-
-  <!-- Main content area -->
-  <div class="container">
-    <aside class="sidebar">
-      <h4>Levels</h4>
-      <ul class="level-list">
-        <li>#1 samuel brownies</li>
-        <li>#2 HYPERSAIN</li>
-        <li>#3 the spam of all time</li>
-        <li>#4 10s30</li>
-        <li>#5 easy for look</li>
-        <li>#6 Chained to Rhythm</li>
-        <li>#7 METALTONIC</li>
-        <li>#8 N O M A D</li>
-        <li>#9 PERFECTNESS</li>
-        <li>#10 TriCk Extension</li>
-        <li>#11 High</li>
-        <li>#12 1C34</li>
-      </ul>
-    </aside>
-
-
-    <main class="main">
-      <div class="card">
-        <h1 class="title">WTF DUAL</h1>
-        <div class="meta">
-          <div><strong>CREATORS</strong>&nbsp;&nbsp; 1</div>
-          <div><strong>VERIFIER</strong>&nbsp;&nbsp; jostgmd</div>
-          <div><strong>PUBLISHER</strong>&nbsp;&nbsp; Ray131</div>
-        </div>
-
-
-        <div class="video-placeholder">YouTube video / gameplay preview</div>
+        <!-- Replace your server icon by uploading an image file named "list_icon.png"-->
+        <link rel="icon" href="/30fps.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500;700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+        <link rel="stylesheet" type="text/css" href="/css/typography.css" />
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pages/list.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="/css/pages/leaderboard.css"
+        />
+        <link rel="stylesheet" type="text/css" href="/css/pages/roulette.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/nav.css" />
+        <link rel="stylesheet" type="text/css" href="/css/components/btn.css" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="/css/components/tabs.css"
+        />
+        <script src="https://unpkg.com/vue@3.2.31/dist/vue.global.js"></script>
+        <script src="https://unpkg.com/vue-router@4.0.14/dist/vue-router.global.prod.js"></script>
+        <script type="module" src="/js/main.js"></script>
+    </head>
+    <body id="app">
+        <header :class="{ dark: store.dark, 'purple': store.purple }">
+            <div class="logo">
+                <h2>30fps SCL</h2>
+                <p>v2.1</p>
+            </div>
+            <nav class="nav">
+                <router-link class="nav__tab" to="/">
+                    <span class="type-label-lg">List</span>
+                </router-link>
+                <router-link class="nav__tab" to="/leaderboard">
+                    <span class="type-label-lg">Leaderboard</span>
+                </router-link>
+                <router-link class="nav__tab" to="/roulette">
+                    <span class="type-label-lg">Roulette</span>
+                </router-link>
+                <router-link class="nav__tab" to="/packs">
+                    <span class="type-label-lg">Packs</span>
+                </router-link>
+                <div class="nav__actions">
+                    <button
+                        class="nav__icon"
+                        @click.prevent="store.toggleDark()"
+                    >
+                        <img
+                            :src="store.dark ? '/assets/light.svg' : '/assets/dark.svg'"
+                            alt=""
+                        />
+                    </button>
+                    <!-- Replace the '#' with your discord server's invite-->
+                    <a class="nav__icon" href="https://discord.gg/XjjQkzrYP">
+                        <img src="/assets/discord.svg" alt="Discord Logo" />
+                    </a>
+                    <!-- List record submission form, add a link to replace the '#' when putting a link to your list submission form-->
+                    <a
+                        class="nav__cta type-label-lg"
+                        href="https://discord.gg/yHYn5JKSxA"
+                        >Submit Level</a
+                    >
+                </div>
+            </nav>
+        </header>
+        <router-view :class="{ dark: store.dark, 'purple': store.purple }"></router-view>
+    </body>
+    </html>
 
 
         <section style="display:flex;gap:24px;margin-top:18px;align-items:center">
