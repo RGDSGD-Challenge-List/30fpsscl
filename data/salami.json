@@ -104,6 +104,12 @@
             "link": "https://www.youtube.com/watch?v=kBpa3lYG6NI",
             "percent": 100,
             "hz": 0
+                                       },
+                        {
+            "user": "Elliot",
+            "link":  "https://youtube.com/shorts/cJsjsODe16s?si=jKkSt65FsSiJwniI",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
