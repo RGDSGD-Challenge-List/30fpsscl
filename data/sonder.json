@@ -168,6 +168,12 @@
     "link": "https://youtu.be/gjsXXlwOUCc",
     "percent": 100,
     "hz": 60
-}
-  ]
+        },
+        {
+            "user": "flerovium",
+            "link": "https://youtu.be/Q8R7Z2LHRgU?si=KPkFakiZjE_Y2Ihv",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
 }
