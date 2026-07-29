@@ -112,6 +112,12 @@
             "link":  "https://youtube.com/shorts/cJsjsODe16s?si=jKkSt65FsSiJwniI",
             "percent": 100,
             "hz": 0
+        },
+        {
+            "user": "flerovium",
+            "link": "https://youtu.be/Q8R7Z2LHRgU?si=KPkFakiZjE_Y2Ihv",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
