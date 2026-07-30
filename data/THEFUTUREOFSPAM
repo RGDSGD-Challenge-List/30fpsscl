@@ -1,13 +1,13 @@
 {
     "id": 143585972,
-    "name": "THE FUTURE OF SPAM",
+    "name": "THEFUTUREOFTHESPAM",
     "author": "benjabdubbs",
     "creators": [1],
-    "verifier": "Sandwich"
-    "verification": "https://youtu.be/n1eGlzOf6lw?si=eHuhyLf5ufLNgUrJ",
+    "verifier": "Sandwich",
+    "verification": "https://youtu.be/n1eGlzOf6lw",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "10.38",
-    "records" [
+    "enjoyment": "10.380s",
+    "records": [
     ]
-},
+}
