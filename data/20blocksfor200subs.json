@@ -55,7 +55,13 @@
             "link": "https://www.youtube.com/watch?v=MO7K2tvevzs",
             "percent": 100,
             "hz": 0
-         }
+         },
+        {
+            "user": "BobKat1",
+            "link": "https://cdn.discordapp.com/attachments/1537062433347084298/1537062434265763851/IMG_3367.mov?ex=6a81a0f1&is=6a804f71&hm=29b820cf70cba203b6140ab837c8f0128b0620a1a7e703003fc5cabcf4f26dde&",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
 
