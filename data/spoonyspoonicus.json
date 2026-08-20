@@ -20,6 +20,13 @@
             "link":  "https://youtu.be/rqxLQ9nG1fc",
             "percent": 100,
             "hz": 0
-                                               }
+                                               },
+
+        {
+            "user": "Dio Brando",
+            "link": "https://youtube.com/shorts/UE7Ehxvbick",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
