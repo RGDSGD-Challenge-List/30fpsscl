@@ -9,5 +9,12 @@
     "password": "Free To Copy",
     "enjoyment": "1.703",
     "records": [
+        {
+            "user": "doli4",
+            "link": "https://www.youtube.com/watch?v=Ecsy3qP5pM8",
+            "percent": 100,
+            "hz": 0
+            
+        }
     ]
 }
