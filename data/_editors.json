@@ -48,7 +48,12 @@
         "role": "admin",
         "name": "Angopr",
         "link": "https://www.youtube.com/@angoPR1"
-    },
+         },
+    {
+        "role": "admin",
+        "name": "claudiobisio",
+        "link": "https://www.youtube.com/@venetiaee"
+         },
      {
         "role": "admin",
         "name": "Zher14",
@@ -58,11 +63,6 @@
         "role": "dev",
         "name": "ball",
         "link": "https://www.youtube.com/@ballgoballing"
-    },
-{
-        "role": "admin",
-        "name": "claudiobisio",
-        "link": "https://www.youtube.com/@venetiaee"
     }
 ]
 
