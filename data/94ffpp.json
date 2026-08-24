@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "1.703",
-    "records": [
+    "records": [        
+        {  
+            "user": "PaulineYT1933",
+            "link": "https://www.youtube.com/watch?v=iiC4MqBXPek",
+            "percent": 100,
+            "hz": 0  
+        }
     ]
 }
