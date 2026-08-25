@@ -9,5 +9,12 @@
     "password": "Free To Copy",
     "enjoyment": "3.755",
     "records": [
+   
+        {
+            "user": "walplep",
+            "link": "https://youtu.be/nDkjkEjre_k",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
