@@ -52,6 +52,12 @@
             "link": "https://www.youtube.com/watch?v=WzYZC-UMZck",
             "percent": 100,
             "hz": 0  
+        },
+        {
+            "user": "walplep",
+            "link": "https://cdn.discordapp.com/attachments/1542315189633024141/1542315190526419014/i_am_tard.mp4?ex=6a90c874&is=6a8f76f4&hm=296ed65b788340ca4a0c1ca7863a0a40a0fe20c1a81f8dd76264a907e2d0eb83&",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
