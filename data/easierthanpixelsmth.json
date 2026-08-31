@@ -9,5 +9,12 @@
     "password": "Free To Copy",
     "enjoyment": "0.320s",
     "records": [
+    },
+        {
+            "user": "tyler",
+            "link": "https://cdn.discordapp.com/attachments/1543781198697070683/1543781210898042921/Video_Project_78.mp4?ex=6a96c68a&is=6a95750a&hm=694775c555cf20b5f9c1a52828e6220d71052b014a1af41801c6498ae51d298a&",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
