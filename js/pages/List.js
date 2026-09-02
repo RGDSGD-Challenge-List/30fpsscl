@@ -143,6 +143,9 @@ export default {
                     <p>
                         Levels verified/beat with a method outside alternating will be placed separately.
                     </p>
+                   <p>
+TPS Bypass is not allowed in PC, only on mobile
+                    </p>
                     <p>
                         Secret ways are <strong>absolutely</strong> prohibited.
                     </p>
