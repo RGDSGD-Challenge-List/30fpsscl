@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "2.54s",
     "records": [
+        {
+            "user": "teto",
+            "link": "https://cdn.discordapp.com/attachments/1545554625015578744/1545924880275480713/IMG_7443.mp4?ex=6a9dea3d&is=6a9c98bd&hm=9a1b110d6e3fc8922abf245c25961a9b9efe59e34e44290f5c40995bab7b55dd&",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
