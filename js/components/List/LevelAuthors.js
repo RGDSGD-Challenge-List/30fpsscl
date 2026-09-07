@@ -44,10 +44,6 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Publisher</div>
-            <p class="type-body">
-                <span>{{ author }}</span>
-            </p>
         </div>
     `,
 
