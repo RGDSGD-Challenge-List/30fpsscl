@@ -1,0 +1,19 @@
+{
+    "id": 145678480,
+    "name": "SMEARE",
+    "author": "veldexity",
+    "creators": [1],
+    "verifier": "random",
+    "verification": "https://youtu.be/7dH-P8dqdYY?si=tK5uChjIaZb5ZpVb",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "9.687s",
+    "records": [
+            {
+            "user": "PaulineYT1933",
+            "link": "https://youtu.be/2jsXhRSvEmA?is=3pXBCSCvyhufHrUj https://youtu.be/jwcKtGO4YOg?is=rbw3fBirVAPXWtVT",
+            "percent": 100,
+            "hz": 0
+          }
+     ]
+}

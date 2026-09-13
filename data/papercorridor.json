@@ -1,13 +1,43 @@
 {
     "id": 137580335,
     "name": "Paper Corridor",
-    "author": "Soli",
+    "author": "SoliSoliSoli",
     "creators": [1],
-    "verifier": "Soli",
-    "verification": "https://www.youtube.com/watch?v=-gIn8ScT6ws",
+    "verifier": "MaybeNyaCat",
+    "verification": "https://youtu.be/ysWTGhP_wlU",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "enjoyment": "0",
+    "enjoyment": "1.829s",
     "records": [
-    ]
-}
+        {
+            "user": "tyler",
+            "link": "https://cdn.discordapp.com/attachments/1545528752333783112/1545528760642576474/Video_Project_95.mp4?ex=6a9d2213&is=6a9bd093&hm=23c5983e7c37779ab1d13d36cc33c6116b8ace7c67bbe1f5c301e3c0d488e967&",
+            "percent": 100,
+            "hz": 0
+         },
+        {
+            "user": "teto",
+            "link": "https://cdn.discordapp.com/attachments/1545554625015578744/1545554627859185814/lv_0_20260904135544.mp4?ex=6a9d3a2a&is=6a9be8aa&hm=80dc5e8f1e9c9746ff05b5e59a0f4d1f1db2f74dc902d321772950612d880b0d&",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+                "user": "ploobie",
+                "link": "https://medal.tv/games/geometry-dash/clips/ntw2v3MnpRYt77ujF?invite=cr-MSxNZVEsNzI4MDgyMTYz",
+                "percent": 100,
+                "hz": 0
+       },
+        {
+                "user": "PaulineYT1933",
+                "link": "https://www.youtube.com/watch?v=jwcKtGO4YO",
+                "percent": 100,
+                "hz": 0
+},
+        {
+                "user": "amethyst",
+                "link": "https://medal.tv/games/geometry-dash/clips/ntoEWFcqhCUA65TxS?invite=cr-MSw2ZTcsNTk1MjMxOTU4",
+                "percent": 100,
+                "hz": 0
+             }
+        ]
+    }

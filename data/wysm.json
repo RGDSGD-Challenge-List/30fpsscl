@@ -1,0 +1,31 @@
+{
+    "id": 14831183,
+    "name": "When You Spam Me",
+    "author": "Zher14",
+    "creators": [1],
+    "verifier": "Zher14",
+    "verification": "https://youtu.be/7Z3AntprSbc?si=MgPl-vcKdQvg-BjH",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "2.812",
+    "records": [
+         {
+                "user": "ploobie",
+                "link": "https://medal.tv/games/geometry-dash/clips/ntvPLWUSh8g2P4lKI?invite=cr-MSxNZ0YsNzI4MDgyMTYz",
+                "percent": 100,
+                "hz": 0
+             },
+        {
+            "user": "doli4",
+            "link": "https://youtu.be/bzejF9ua7eQ?si=QEZXkDR6mab0OYJ3",
+            "percent": 100,
+            "hz": 0
+             },
+        {
+            "user": "PaulineYT1933",
+            "link": "https://www.youtube.com/watch?v=jwcKtGO4YOg",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
