@@ -159,6 +159,10 @@ export default {
                         Clicks must be heard. Click Sounds aren't allowed, or medal overlay is allowed as well if u dont have a mic.
                     </p>
                     <p>
+We are not accepting Layouts as verifications, Effort on yours levels
+                   </p>
+                    <p>
+
                         You have to be on the latest version of Geometry Dash in order to get your completions/verifications accepted.
                     </p>
                       <p>
