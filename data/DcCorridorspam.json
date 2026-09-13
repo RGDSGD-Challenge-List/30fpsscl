@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "2.551s",
     "records": [
+        {
+            "user": "walplep",
+            "link": "https://cdn.discordapp.com/attachments/1548554073643687977/1548554075593908295/g.mp4?ex=6aa8239e&is=6aa6d21e&hm=6c14baafb4d27ebe5d7f5612bebeee3f80f9e7ebc9323781282576179cbcec13&",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
