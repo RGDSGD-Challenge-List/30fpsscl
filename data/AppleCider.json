@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "13.6s",
     "records": [
+         {
+            "user": "nNeo",
+            "link": "https://www.youtube.com/watch?v=3fTpJkOoGEE",
+            "percent": 100,
+            "hz": 0
+          }
     ]
 }
