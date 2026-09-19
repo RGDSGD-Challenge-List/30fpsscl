@@ -9,5 +9,11 @@
     "password": "Free To Copy",
     "enjoyment": "10.200s",
     "records": [
+        {
+            "user": "Sandwich",
+            "link": "https://youtu.be/1WpX0TH824M",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
