@@ -39,12 +39,18 @@
             "percent": 100,
             "hz": 0
         },
-         {
+        {
             "user": "doli4",
             "link": "https://youtu.be/hPb8IAnnnT8?si=2BTmajzGrlD3w2FV",
             "percent": 100,
             "hz": 0
-         }
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://youtu.be/1WpX0TH824M",
+            "percent": 100,
+            "hz": 0
+        }
     ]
 }
     
