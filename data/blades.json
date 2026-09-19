@@ -9,15 +9,21 @@
     "password": "Free To Copy",
     "enjoyment": "20cps/1.5s, 2.985s",
     "records": [
-                                                {
+        {
             "user": "aelzfr",
             "link":  "https://youtu.be/rqxLQ9nG1fc",
             "percent": 100,
             "hz": 0
-                                               },
+        },
         {
             "user": "walplep",
             "link": "https://youtu.be/NW_vPz0QgAY",
+            "percent": 100,
+            "hz": 0
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://youtu.be/1WpX0TH824M",
             "percent": 100,
             "hz": 0
         }
