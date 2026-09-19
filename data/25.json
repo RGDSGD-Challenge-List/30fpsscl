@@ -9,17 +9,23 @@
     "password": "Free To Copy",
     "enjoyment": "5.777",
     "records": [
-                                        {
+        {
             "user": "aelzfr",
             "link":  "https://youtu.be/rqxLQ9nG1fc",
             "percent": 100,
             "hz": 0
-                                               },
+        },
         {  
             "user": "PaulineYT1933",
             "link": "https://www.youtube.com/watch?v=0lVmPgFTEVw",
             "percent": 100,
             "hz": 0  
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://youtu.be/1WpX0TH824M",
+            "percent": 100,
+            "hz": 0
         }
     ]
 }
