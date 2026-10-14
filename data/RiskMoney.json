@@ -72,7 +72,13 @@
             "link": "https://youtu.be/VGAuinkf6VM?si=iCfbhJ4zFHywFq6q",
             "percent": 100,
             "hz": 0
-        }
+        },
+          {
+            "user": "fred",
+            "link": "https://media.discordapp.net/attachments/1553035261682651237/1553035270784552990/30fpslist1.mp4?ex=6ad0d4ce&is=6acf834e&hm=fa30525ace98ab4615786c7d1e9c9e0877966e1da560c9a8dd850d2a6272ef6a&",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
     
