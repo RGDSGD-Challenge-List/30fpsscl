@@ -44,6 +44,12 @@
             "link": "https://www.youtube.com/watch?v=Nc0IfDzpbLo",
             "percent": 100,
             "hz": 0
-        }
+        },
+          {
+            "user": "yablonski_gmd",
+            "link": "https://www.youtube.com/watch?v=AaaInbJynpc",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
