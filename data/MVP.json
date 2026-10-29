@@ -179,7 +179,20 @@
             "link": "https://www.youtube.com/watch?v=avdAeu0kJX4",
             "percent": 100,
             "hz": 0
-        }
+        },
+          {
+            "user": "fred",
+            "link": "https://media.discordapp.net/attachments/1553035261682651237/1553035270784552990/30fpslist1.mp4?ex=6ad0d4ce&is=6acf834e&hm=fa30525ace98ab4615786c7d1e9c9e0877966e1da560c9a8dd850d2a6272ef6a&",
+            "percent": 100,
+            "hz": 0
+            },
+          {
+            "user": "ibuilder",
+            "link": "https://youtu.be/Me47Xmjb7qo?si=RCWUUWOB_qokOzZ1",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
+
 

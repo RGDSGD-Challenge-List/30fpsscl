@@ -144,6 +144,18 @@
             "link": "https://www.youtube.com/watch?v=avdAeu0kJX4",
             "percent": 100,
             "hz": 0
-        }
+        },
+          {
+            "user": "barkin",
+            "link": "https://media.discordapp.net/attachments/1562151293408251945/1562151295517728778/MedalTVGeometryDash20261020200110622-trim-1792516044386.mp4?ex=6ad99b04&is=6ad84984&hm=ef2d7a11587f462253abb378d6761482b065d3ce541d573f7d48ddfb51166847&",
+            "percent": 100,
+            "hz": 0
+          },
+        {
+            "user": "ruby",
+            "link": "https://medal.tv/games/geometry-dash/clips/nNNaKGJUyafHV0uPB?invite=cr-MSxMTHEsNzcxMTgzNzQ1",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }

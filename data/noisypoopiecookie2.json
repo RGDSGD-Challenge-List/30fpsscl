@@ -211,6 +211,18 @@
             "link": "https://www.youtube.com/watch?v=avdAeu0kJX4",
             "percent": 100,
             "hz": 0
-        }
+        },
+          {
+            "user": "fred",
+            "link": "https://medal.tv/games/geometry-dash/clips/nIFUQetRFf3Ij4wLL?invite=cr-MSxBZEIsNjEzMjYzODg4",
+            "percent": 100,
+            "hz": 0
+         },
+          {
+            "user": "yablonski_gmd",
+            "link": "https://www.youtube.com/watch?v=AaaInbJynpc",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
