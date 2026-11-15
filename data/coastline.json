@@ -217,6 +217,12 @@
             "link": "https://www.youtube.com/watch?v=AaaInbJynpc",
             "percent": 100,
             "hz": 0
+         },
+          {
+            "user": "barkin",
+            "link": "https://cdn.discordapp.com/attachments/1562151293408251945/1571616504103964803/MedalTVGeometryDash20261115230128229-trim-1794772909645.mp4?ex=6afb616d&is=6afa0fed&hm=65fbd20e136994db10c02c558f0455835f0e55ceefab9b9aae678ece5a3b7b3d&",
+            "percent": 100,
+            "hz": 0
          }
     ]
 }
